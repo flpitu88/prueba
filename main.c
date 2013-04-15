@@ -10,6 +10,7 @@
 
 int main(){
 	printf("Hola Mundo\n");
-	printf("ya me funciona git");
+	printf("ya me funciona git\n");
+	printf("y pude hacer un pull :D\n")
 	return 0;
 }
