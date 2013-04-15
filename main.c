@@ -10,5 +10,6 @@
 
 int main(){
 	printf("Hola Mundo\n");
+	printf("ya me funciona git");
 	return 0;
 }
